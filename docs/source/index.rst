@@ -5,7 +5,7 @@
 
 Welcome to pocdoc's documentation!
 ==================================
-This is using local RTD server
+This is using local RTD server and branch doc-1.0
 
 .. toctree::
    :maxdepth: 2
