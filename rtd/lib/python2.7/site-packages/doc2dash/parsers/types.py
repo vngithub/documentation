@@ -1,0 +1,6 @@
+CLASS = 'cl'
+PACKAGE = 'Module'
+METHOD = 'clm'
+FUNCTION = 'func'
+ATTRIBUTE = 'Attribute'
+CONSTANT = 'clconst'

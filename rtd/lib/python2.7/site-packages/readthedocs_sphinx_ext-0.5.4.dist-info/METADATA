@@ -1,0 +1,15 @@
+Metadata-Version: 2.0
+Name: readthedocs-sphinx-ext
+Version: 0.5.4
+Summary: Improved Client for Sphinx.
+Home-page: http://github.com/ericholscher/readthedocs-sphinx-ext
+Author: Eric Holscher
+Author-email: eric@ericholscher.com
+License: BSD
+Platform: UNKNOWN
+Requires-Dist: requests
+Requires-Dist: nilsimsa (>=0.3.7)
+
+Tooling for a better Read the Docs Sphinx build experience.
+
+

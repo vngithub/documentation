@@ -1,0 +1,3 @@
+[console_scripts]
+mkdocs = mkdocs.cli:cli
+
